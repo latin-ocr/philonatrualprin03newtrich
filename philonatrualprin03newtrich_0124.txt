@@ -1,0 +1,118 @@
+76 PHILOSOPHIAE NATURALIS [DE Mum). Stsr.
+
+8 l ² -ξ- 2 l f -l- 8 f 2
+
+-ᾖ- 21 g— 6 fg
+PS><f χΟ-ι- l÷f—g Pan- Ι ν Ξ-ῥέἕΡΝῑῖἅς)
+
+4! “PN'x-p-Nqssffi- 9.s.1><1’N-{-PM 2.4.51÷><12N†1’M[2
+quoe series in omni casu convergit propter quantitatis P N -l- P M dignitates in denominatore
+
+posita53 quae quantitas semper major elst 1quam P N, f et g in numeratore positas (per 20. l.
+) l 2
+
+ 
+
+ 
+
+Elem), imo* si loco l ponatur ejus valor
+
+ 
+
+fiatque reductio, series evadet
+
+ss·
+
+ 
+
+PSxf lwqss÷fg-g2 5PNw÷2PN2ffl45vg2
+μῆ-χᾟῑ-ᾟἾῆῗχυψρῶᾞΝχῗἙῗ-ῆψ -ὶ-ΞΡΝἝε--ἒὴξῆἃα
+
+ 
+
+ 
+
+ 
+
+ 
+
+ᾎωᾶΡΝκχΡΝᾙἾῆητ
+
+cum autem in triangulo P N q, vel in triangulo
+P M N, P N -l- M N sit summa laterum et P N
+nunquam sit minimum latus, demonstrabitur facile
+quod rectangulum P N per P M -{— P N, est majus
+rectangulis aut quadratis factis ex reliquis lateribus
+P N, P q vel M N, unde in quocumque casu hoec
+series tam respectu litteralium quantitatum quam re-
+spectu numerorum co‘efficientium erit convergens, id-
+que satis prompte, siquidem duobus gradibus crescunt
+dimensiones ab uno termino ad alterum.
+
+Portio autem curvae quaesitae respondens tali abscis-
+sae, est accurate quarta pars totius curvae quaesitae,
+sumptis enim a. puncto P secundum lineas P M, P N
+longitudinibus P S, P Z aequalibus radio sphaerae, ductaque S Σς et secto cono P M D N E se-
+cundum lineam S Σ per planum perpendiculare plano P N M, sectio erit ellipsis et S Σ unus ex
+ejus ellipseos axibus; quia verb triangulus P S Σ est isosceles et linea P X angulum S P Σ bifa-
+riam dividit, ea linea P X secabit axem ellipseos S Σ in ipso centro K ellipseos; quoniam autem
+alter axis K Δ est perpendicularis in axem S Σ, et est in plano ad planum P N M perpendiculari,
+erit axis Δ Κ perpendicularis in lineam P K X ide6que erit parallelus ordinatae X Z, et linea P Z
+transibit per punctum Δ ; ergo unus ellipseos quadrans intercipietur inter lineas P N, P Z, hoc est
+respondebit portioni N D Z semi-circuli N Z D N, alter ver& quadrans ellipseos respondebit reli-
+quae portioni M Z semi-circuli ejusdem ; jam ver& evidens est quod si habeatur conus rectus cujus
+basis sit ellipsis quaevis, et ab ejus vertice ut centro, radio quovis describatur curva in ejus coni su-
+perficie, portiones ejus survae singulis quadrantibus ellipseos respondentes erunt inter se aequales3 er-
+
+ΡΝ
+PN÷PM
+
+ 
+
+ 
+
+go portio curvae respondens abscissae x = f est accurate quarta pars totius curvae
+
+quaesitae.
+
+Ergo ex prius inventis, cum attractio P a pyramidibus in peripheriam M D N E desinentibus,
+exprimi debeat per P C ductum in numerum linearum P Z, quae a puncto P aequalibus angulis
+procedentes ad peripheriam M D N E desinunt, is ver& numerus linearum P Z sit ut curva quae
+intercipitur in superficie sphaerae descriptae radio quocumque P S inter eas lineas P Z, eaque curva
+in quatuor aequales quadrantes dividatur, erit etiam is numerus linearum P Z ut‘ unus ex eis ⁴qua-
+
+drantibus ; exprimitur ver-6 is quadrans per seriem supra inventam: ergo (posito P S z l) attrac-
+tio puncti P a solido est ut
+
+¹’C><¹' ><¹ PN²ssfs—gg SPN⁴÷2PN²gf÷3f²gffi
+ΑΙΡΝχΡῗΊΞ-Ιῗ-*ΙἯ (42.5.PN><1‘’—Nss15'ffi' 'l‘ ÷2PN²gg16fggj,&c.
+
+*-
+
+ 
+
+ 
+
+24.5.ΡΝιχΡ-ῆ-ΤΜῙ2
+
+*-
+
+ 
+
+Haec series tunc minimum convergit cum ex Solis co’efficientibus numericis convergit, cum
+nempe punctum M coincidit cum puncto P, tunc enim quantitates omnes N M, sive f, P q
+
+sive g, P N et P N -1- P M sunt inter se aequales et P C = {- tunc ergo series redit ad P ΟΧ
+
+1 3
+04* 33 4 §.Th-54 2. 4132. 7 “Ι“ 2. 4¹34. 9’ Μ’)
+
+ 
+
+ 
+
+Eo autem in casu, ex ipsa constructione liquet, portionem curvae sphaerae inscriptae esse quadran-
+
+tem circuli cujus radius est 1, eumque ‘quadrantem exprimi ista serie3 hinc totam hanc seriem
+aequipollere quantitati 1.57o79 Χ Ρ C. ⁷
+

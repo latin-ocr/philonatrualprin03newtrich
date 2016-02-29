@@ -1,0 +1,146 @@
+80
+
+PHILOSOPHIAE NATURALIS [Da MUND..SYs'r.
+
+eadem circiter ratione augentur arcus graduum latitudinis in meridiano.
+Ideoque cum latitudo Lutetiae Parisiorum sit 48 gr. 50'. ea locorum sub
+
+D. de Maupertuis in Monumentis Paris. an.
+1754. et in Libro de Figura Terrae. Semi-ellipsis
+P A p, referat meridianum spbaeroidis cujus est
+axis P p, diameter vero secundum aequatorem
+A a. Ponatur C A= 1, cP=m, C N=x,
+E N = y erit (ex natura ellipseos per Lem. IV.
+
+ 
+
+de Conicis) EN2: CP2 = AN>< Na:
+A C², ideoque y² = m2)< (1 -xx) ety
+= m 4! 1 -- x x'. Sit G E, radius circuli
+ellipsim osculantis in E, is erit (214. Lib. Ι.)
+
+1
+
+=-n-3(1-xx†mmxx) ᾖ. Quia vero
+
+ 
+
+ 
+
+E K ³ = Ε GA><C12<3 ⁴ (239. Lib. 1.) erit E K
+= m -ss-x ² -†- m 2 x ². Jam sinus anguli
+
+latitudinis A K E, dicatur s, posito sinu toto
+
+=1‚ erit 1: s = m ,ᾳ l--x2-ff—m2x22
+1 — s s
+
+l —ss -Ιι- m m ss
+
+quo valore substituto, loco x x in expres-
+
+sione radii osculatoris, fiet E G =
+
+m m 5- .
+( ΜΞ) 2· Nunc conferantur si-
+
+mul duo gradus meridiani A D, E F, quorum
+unus incipiat ab aequatore alter vero sumatur
+ubivis in arcu A P, sumpto A B, pro radio cir-
+culi ellipsim osculantis in A, erit (92.) A D:
+
+E F= A B: E G, sed est A B=I⁴³ACC2 (241-
+
+Lib. Ι.) .·- m m, quare si gradus A D dicatur
+A et gradus E F dicatur E‚fiet A: E =1n m ε
+
+(l—ssmmmmss){ac proinde E=A><
+
+(¹.'-. s s m m s s)-—{. Haec formula ex·
+prmut relationem inter primum gradum latitudi-
+
+nis et ali um quemlibet gradum, atque inter dia-
+metrum et axem.
+
+94. Si quantitas 1 -{— m m— s s, evehatur ad
+dignitatem cujus exponens est — ᾗ (550. Lib.
+
+ 
+
+m 4! l—xx, ac proinde x x=
+
+ 
+
+1.) erit E .-= A ><(1-{(mm-1)ss 4⁵5¹
+χ (mm-1)3‘sT2-, &comm - E= ss} ><
+(m m—1)AS2- ¹35⁵ (mm—1)²AS4
+4, ἃς. Quia vero sphaerois Terrae ad sphaeram
+proxime accedit, erit fere m = l, ide6que in
+superiori formula negligi poterunt termini in
+quibus quantitas m m - 1, ad altiorem potesta-
+tem evecta occurrit, unde fit pro Tellure ‘2 A —
+2 Ε = :3 (m m — 1) ><A S S. Si Terra ponatur
+versus polos compressa, erit 1 > m et E > A,
+hincque prodit E — A, A S S = 3 >< (1 —-
+m m) t 2. Quare iterum patet id quod jam de-
+monstravimus (92.) arcus scilicet graduum lati-
+tudinis in meridiano augeri in duplicata ratione
+sinus recti latitudinis.
+
+95. Si gradus A D, non computetur ab ipso
+aequatore‚ sed ubivis inter A et E sumatur, sit-
+que S sinus anguli latitudinis, patet (94.) fore
+B D = ————-—l—S snit-mmm S S){ide‹')queA: E=
+*EQ—2. —Qffls
+(1 —Ss÷ mmss)2 ⁹(1--ss-4-mmssy‘2’
+acproindeAx(1-ss÷mmss) ³}=E ><
+(l — S S -Ι- m m S S) ᾗ· Jam vero evectis tef-
+
+minis ut supra ad dignitatem cujus exponens ᾖ,
+
+neglectisque quantitatibus evanescentibus (95.),
+2(Ε-Α)
+
+3 Ε χ (s s — S S)‘
+
+Si gradus unus ab aequatore, alter a polo
+numeretur, erit s = l, et S = o, ideoque
+formula praecedens abit in hanc 1 — m m =
+2 (E —- A)
+
+3 Ε ·
+
+96. Si loco semi-diametrorum C A, C P,
+
+et sinus latitudinis s s, in aequatione x x =
+1 — s s
+
+1 —- s s -Ι- m m ss
+siones quaelibet indeterminatae, aequatio praece-
+dens quatuor continebit variabiles, quarum tri-
+bus cognitis quarta innotescet. Quare datis
+semi-diametro aequatoris C A, semi-diame-
+tro paralleli N C vel E Q, x, aut quod idem
+est, datis gradu aequatoris et gradu paral·
+leli (sunt enirn gradus illi ut ipsimet cir-
+culi, ide6que ut radii) et si'mul cognita la-
+titudine, cujus sinus S, dabitur axis ellipsoi-
+dis. Simili prorsus modo ducta qualibet alia
+ordinata E Q, quae sit alterius paralleli semi-dia-
+meter, et mutata utcumque latitudine, institui
+poterit alia aequatio quatuor variabiles continens
+ac proinde duplex obtinebitur aequatio. Jam
+vero quia haec utraque aequatio duas continet in-
+determinatas communeS, nempe semi-diametros
+ellipsis, patet datis duorum parallelorum gradi-
+bus, datisque latitudinibus, per vulgares algebrae
+regulas collata simul utraque aequatione, deter-
+minari posse semi-diametrorum rationem. Cae-
+texum haec omnia constructionibus geometricis
+
+fleu—mm:
+
+ 
+
+, (93.) substituantur expres-
+

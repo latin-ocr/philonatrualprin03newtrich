@@ -1,0 +1,110 @@
+me TERTIUS] PRINCIPIA MATHEMATICA. 71
+
+eodem plano (per 6. ΧΙ. Elem.) ideoque linea Ut longitudo seu rectificatio ejus curvae obti-
+P p secabit lineam M N, et cum triangula matur, ducantur a puncto P ad duo puncta
+P R C, p r C sint aequalia propter r p = R P, proxima peripheriae M D N E lineae P Z, Pz;
+angulos rectos, et angulos per verticem opposi- abscissa circuli secundum diametrum a puncto N
+
+tos, sitque N r = M R linea P p transibit per
+centrum C; erit etiam linea P p in plano trian-
+guli Z Pg cum habeat puncta P et C in eo
+plano; inde si jungantur lineae Z p, ζ p, tota
+figura P Ζ p ζ erit in eodem plano, et propter
+aequales P C, p C, Z C, C ζ et angulos intercep-
+tos per verticem oppositos lineae P Z, p ζ erunt
+aequales. ut et lineae P ζ, p Z, hinc figura
+P Z p ζ est parallelogramma cujus P p sive
+2 Ρ C est diagonalis; quare cum pyramides
+trahant secundum directiones P Z, P ζ, viribus
+quae sunt ut P Z ad P ζ, vis inde resultans diri-
+getur secundum diagonalem P p, sive 2 P C,
+eique erit proportionalis.
+
+Quod cum ita sit de omnibus punctis Z in
+circumferentia M D N E sumendis, attractio
+puncti P ab omnibus paribus pyramidum in cir-
+cumferentia ejus circuli terminatarum, erit ut
+
+ 
+
+2 P C multiplicata per numerum parium earum
+pyramidum3 sive erit ut P C ipsa multiplicata
+per numerum omnium P Z ad circumferentiam
+M D N E terminatarum.
+
+Denique ut obtineatur numerus earum linear-
+rum P Z ad circumferentiam quamlibet M D N E
+terminatarum, observandum est, eas lineas egre-
+dientes ab hemisphaerio circa P descrIpto, in
+ejus superficie signare lineam curvam (duplicis
+quidem curvaturae quando P non imminet per-
+pendiculariter centro C, isto enim in casu signa-
+rent circulum) et propter aequalitatem distantiae
+concur-sus eorum axium cum superficie hemi-
+sphaern (cx constructione) numerus earum line-
+arum-erit ut longitudo ejus lineae curvae in su-
+perficoe hemisphaerii signatae3 huc ergo redit
+tota quaestlo, ut, dato puncto P ejusque ordinata
+P Q ad axem solidi rotundi, sumptaque ut libet
+absmssa A C, ejus ordinata C M, et circulo
+M D.N E eJus ordinatae convolutione descripto,
+:attentatur longitudo curvae descriptae in super-
+fiqle sphaerae (cujus radius P S ad lubitum assu-
+mitur) per intersectionem coni inclinati cujus
+vertex est P, basis verb M D N Ε.
+
+remotiori a puncto P sumatur, sintque N Γ et
+Γ Ζ abscissa et ordinata circuli respondentes
+puncto Z, dicatur N Γ, x, Γ Ζ, y; Z z, d v;
+tota diameter M N, f, duplum ordinatae P Q sit
+g, denique si'centro P radio P S describatur
+arcus S s, ille arcus S s erit elementum curvae
+quaesitae respondens elemento circuli d v. Ex
+Ρ, ut prius, demittatur in circulum M D N E
+
+perpendiculum P R, erit R C = P Q, = ξ, ex
+R ducantur lineae R Z et Rz, et centro C radio
+R Z describatur arcus Z K ut sit R K = R Z,
+ex centro C ducatur ad Z radius C Z, et per-
+pendiculum C Y in lineam R Z, dico 10. quod
+triangulus R C Y est similis triangulo R Z Γ, ob
+
+angulum in R communem, et rectos Γ et Y, un-
+
+deest ΒΖ adzr(y)sieut1tc({)adcy
+
+[ης-’ἡκ i Q,
+Χῖ,- 3
+
+ 
+
+§fig-2⁵⁸³ 20. triangulus C Z Y
+est· similis triangulo Z K z; nam angulus R Z K
+est rectus per constr. quoniam triangulus R Z K
+est isosceles, angulus vero C Z z est etiam rec-
+tus per naturam circuli, unde dempto communi
+C Z K manent aequales anguli C Z Y et K Z z,
+
+praeterea anguli in Y et K sunt recti: erit ergo
+
+quod erit ergo
+
+ 
+
+ 
+
+radiusCZ({)adCY(2{zyZ sicutZz
+(dv)adKun0deritergo gy dv.v
+
+50. Ducatur ex P linea P K, ea erit aequalis
+lineae P Z, nam trianguli P R Z, P R K erunt
+aequales ob communem P R, aequales per constr.
+R Z et R K, et angulos in R rectos (per 4.
+xl. Elem.); hinc si radio P K, centro P de-
+scribatur arcus K ω, erit P ω = P Z et arcus
+Z ω similis erit elemento quaesito S S, et trian-
+gulus Z z ω rectangulus erit in ω.
+
+Porro, triangulus K ω Ζ erit similis triangulo
+P R z ob angulum communem in z, et rectos iu
+

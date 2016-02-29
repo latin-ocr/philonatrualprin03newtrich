@@ -1,0 +1,86 @@
+LmER Temnos] PRINCIPIA MATHEMATICA. 51
+
+1ΡΒΟΡΟΞΙΤΙΟ XVII. THEOREMA XV.
+
+Planetarum ‚motus diurnos anfformes esse, et librationem Lunae ex ipsius
+motu diurno oriri. Ι
+
+Patet per motus legem 1. et Corol. 22. Prop. LXVI. Lib. I. Jupi-
+ter utique respectu fixarum revolvitur horis 9. 56², Mars horis 24. 39'.
+Venus horis 23. circiter, Terra horis 23. 56', Sol diebus 25} et Luna
+
+diebus 27. 7. hor. 43'. Haec ita se habere, ex phaenomenis manifestum
+
+est. (d) Maculae in corpore Solis ad eundem situm in disco Solis redeunt
+
+θ
+
+Quia vero problema illud supponit data esse S T t et latus t T. Si itaque ab angulis datis
+tria planetae loca centrica, hoc est, ex Sole visa, P T S et P t S, auferantur anguli noti t T S,
+datasque eorum a Sole distantiaS‚ hic adjunge- Tt S, dabuntur anguli P T t et P t T3 unde in
+mus methodum qua clariss. Halleius ex dato triangulo P t T ex datis angulis una cum latere
+tempore periodico‚ planetae locum centricum T t, innotescet P T. Deinde in triangulo
+ejusque a Sole distantias invenire docuit. Re- P T S, dantur latera P T, T S cum angulo in.
+ferat T t A orbitam Telluris, S Solem, sitque P tercepto P T S, ideoque dabitur S P, quae dis-
+tantia planetae a Sole curtata appellatur, et notus
+fiet angulus T S P, ex quo dabitur locus plane—
+tae heliocentricus. Est autem (ex trigon.) tan-
+gens latitudinis geocentricae planetae ad tangen-
+tem latitudinis heliocentricae ut distantia planetae
+a Sole curtata ad distantiam ejusdem a Tellure
+curtatam‚ sed per observationem, nota est latitu-
+do geocentrica planetae, quare innotescet planetae
+latitudo heliocentrica ex qua simul. et distantia a
+Sole curtata elicietur planetae a Sole vera dis-
+tantia, et simili modo vera distantia planetae a
+Terra, uude tandem in triangulo cujus tria
+puncta suxit Sol, Terra et planeta, omnia latera
+sunt cognita. Hac ratione. obtineri possunt
+varia loca centrica planetae, variaeque a Sole dis·
+tantiae.
+
+Caeterum haec fuse variisque adhibitis metho-
+dis, explicata reperiuntur in Introductione ad
+Veram Physicarn ,Ioannis Keiu, in Astronomia
+Physica Davidis Gregorii, et potissimum in
+Elemeutis Astronomicis a clariss. Cassino nu-
+
+er editis.
+p (d) ²* Maculae in corpore Solis. Ciun revolutio
+
+ 
+
+planeta seu potius locus planetae ad eclipticam
+reductus, sive punctum, ubi perpendicularis ex
+planeta in planam ecliptica> demissa incidit.
+Ponatur Tellus. in T, observeturque planetae
+longitudo geocentrica, ex data theoria Telluris,
+dabitur longitudo apparens Solis, ide6que dabi-
+tur angulus P T S. Post integram planetae re-
+volutionem, planeta rursus erit in P, quo tem-
+pore Tellus sit in t, ex eo puncto iterum obser-
+vetur planeta, inveniaturque angulus P t S
+elongatio planetae a Sole. Ex datis observa-
+tionum momentis. dantur loca Telluris in eclip-
+tica e Sole visa ejusque a Sole distantiae, ac pro-
+inde in triangulo t S T, dantur latera t S, S T
+et angulus-t S T, quare invenientur anguli S t T,
+
+F4
+
+macularum circa Solem sit admodum regularis,
+et maculae ipsae vel Soli supernatent vel a Sole
+parum distent (69) non maculae circa Solem,
+sed Sol ipse 25—,15 dierum spatio circiter, circa
+proprium axem motu vertiginis movetur. Jo-
+vem, Venerem et Martem circa axem suum gy·
+rare ex maculis quoque in horumce planetarum
+corporibus per vices in conspectum redeuntibus
+colligitur. In MercurIO autem qui Soli proxi-
+mus est, ob nimium luminis splendorem, etin
+Saturno ob maximam ejus a Terra distantiam
+maculae nullae hactenus deprehendi potuerunt
+quibus determinaretur eorum vertigo. Attamen
+nil obstat quominus ex analogiae lege colligamus
+Mercurium quoque et Saturnum circa axem
+

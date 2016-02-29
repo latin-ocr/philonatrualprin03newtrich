@@ -1,0 +1,137 @@
+Lissmt Tannus] PRINCIPIA MATHEMATICA.
+
+trahuntur, alia minus, plurima non trahuntur.
+
+31
+
+Et vis magnetica in uno
+
+et eodem corpore intendi potest et remitti, estque nonnunquam longe
+
+major pro quantitate materiae quam vis gravitatis, et in recessu a mag-
+
+nete decrescit in ratione distantiae non duplicata, sed fere triplicata,
+quantum ex crassis quibusdam observationibus animadvertere potui.
+
+aequalitatem linearum C N, C S, ideoque par-
+tium C P ac C p, tota vis magnetica tam attrac-
+tiva quam repulsiva acum convertens puncto P
+
+applicata censeri potest.
+Si magnes M ab acu infinite distaret, pari
+ratiocinio ostenderetur vim totam qua convertit
+
+acum in puncto P esse collectam, et per resolutio· -
+
+nem virium, vim qua convertit acum, esse ad vim
+totam ejus magnetis M ut sinus anguli N C M
+(deviationis nempe acus a magnete) ad radium.
+
+Hinc in casu, in quo acus quiescit, vis mag-
+netica Terrae convertens acum est aequalis vi
+magnetis convertenti acum, siquidem manet
+acus in aequilibrio in situ N C S, cum ergo sit
+vis magnetica Terrae tota, ad vim magneticam
+Terrae convertentem acum ut radius ad sinum
+declinationis acus a meridiano magnetico 3 et sit
+vis magnetis convertens acum (aequalis illi vi
+magneticae Terrae convertenti acum) vim to-
+tam magnetis ut sinus deviati0nis a s a mag-
+nete ad radium ; ex aequo et per compositionem
+
+rationum habebitur vis tota magnetica Terrae⁴
+
+ad vim totam magnetis M ut sinus deviationis
+
+· acus a magnete, ad sinum declinationis acus a
+
+meridiano magnetico, quod etiam per composi-
+tionem virium demonstrari potuisset.
+
+Itaque si idem magnes ad aliam distantiam
+ponatur, ut in X, ita ut in alio situ acum con-
+stituat, habebitur etiam vis magnetis in X, ad
+vim totam magneticam Terrae, ut sinus declina-
+tionis acas a meridiano magnetico ad sinum
+deviationis acus a magnete. Quare per compo-
+sitionem rationum erit vis magnetis in X, ad
+vim magnetis in M, ut sinus declinationis acus
+a meridiano magnetico cum magnes est in X
+divisus per sinum deviationis ab eomagnete in
+X posito, ad sinum declinationis acus a meridi·
+ano magnetico cum magnes est in M divisum
+per sinum deviationisa magnete, inM posito, hoc
+est, vis magnetis in diversis distantiis, (infinitis,
+respectu magnitudinis acus) est ut sinus decli-
+nationis acfis a magnetico meridiano divisus per
+sinum deviationis ejus a magnete.
+
+Equidem quando magnes satis est vicinus ab
+acu ut diversa censeri possit ejus distantia a
+diversis punctis acus, et fortior sit ejus vis in
+puncta viciniora quam in remotiora, simulque
+actio magnetis ad diversa puncta acfis diversa
+cum obliquitate applicetur, centrum actionis vis
+magnetis fiet vicinius extremitati N, attamen ob
+figuram vulgarem acus magneticae quae spiculi
+instar formata circa punctum P latior est, cen·
+trum rotationis acus in puncto P manere censeri
+potest nisi nimia sit magnetis vicinia.
+
+Ideoque distantia magnetis ab acu et angulus
+deviationis acfis a magnete determinabuntur
+ducendo lineam a centro magnetis ad id punc-
+tum P atq'ue his Principiis per experimenta mox
+recensenda vires magnetum in divers-‘s distantiis
+positorum fuerunt aestimatae.
+
+In his experimentis adhibita fuit acus magne-
+tica trium pollicum, quae ut solet, attingebat
+utraque extremitate circulum divisum in suos
+graduS‚ ductaque linea perpendiculari in centrum
+acfis cnm sponte in meridiano magnetico jacebat,
+applicabatur magnes parallelepipedon super eam
+lineam, ita ut ejus facies polares perpendiculares
+essent ei lineae, polusque ejus meridionalis
+acum spectaret, Borealemque ejus extremum ad
+se traheret, mensurabantur distantia: a centro ’
+acfis ad centrum magnetis in pollicibus lineisque
+ParisiensibuS, et observabatur quantum in sin-
+gulis magnetis distantiis discederet acus a ineri-
+diano magnetico‚ tum, prim& graphice, postea
+calculo trigonometric0‚ distantia centri magnetis,
+a centro rotationis acQS, ut et angulus ejus lineae
+cum acu, determinabanturz diviso itaque sinu
+declinationis acus per sinum istius anguli quotiens
+exprimit rationem vis magneticae in distantia
+singula inventa, sive logarithmis utendo, diffe-
+rentia logarithmorum sinuum angulorum devia-
+tionis a meridiano magnetico et a magnete erit
+logarithmus vis magneticae, in distantia in qua
+anguli illi habentur, et tertia pars ejus differentiae
+erit logarithmus radicis cubicae vis magneticae, et
+assumptis iis radicibus cubicis in numeris, si per
+eas dividatur numerus aliquis constans (qui hic
+est 575) quotientes erunt ipsae distantiae3 unde
+liquet quod radices cubicae virium magnetis sunt
+inverse ut distantiae, sive quod vis magnetica sit
+inverse in ratione triplicata distantiarum: se-
+quenti vero Tabella exhibentur haec experimenta
+magna cura instituta, cum calculo inde deducto;
+prima columna designat distantias a centro acus
+ad centrum magnetis; secunda columna desig-
+nat distantiam a centro rotationis acus ad cen-
+trum magnetis; tertia declinationem acus a
+meridiano magnetico cum suo logarithmo et
+tertia ejus parte3 quarta, declinationem acus a
+linea ducta a centro rotationis acus ad centrum
+magnetis cum suo logarithmo et tertia parte ;
+quinta, differentias earum tertiarum partium, ,
+cum suis numeris qui rationem exprimunt radi-
+cum cubicarum virium magnetis in diversis ‹lis-
+tantiis ; sexta denique quotientes numeri 577²}
+per istos numeros divisi, qui quotientes ipsas dis.
+tantias quamproxime aequant. >
+
+1322
+

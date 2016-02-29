@@ -1,0 +1,63 @@
+136 TRAITE' SUR LE FLUX
+
+COROLLAIRE.
+
+IL--Si G g = {r C, il faut que B b soit = ξ, C, et par consequent double
+de l'autre. Ainsi donc l'eau monte deux fois plus autour de la ligne,
+qui passe par le centre de l'un des luminaires, et celui de la Terre,
+qu'elle ne descend εὶ la distance de 90 degr6S.
+
+'PRoBLEME
+
+III.-—Si l'on tire du centre C une droite quelconque C y, trouver la
+petite ligne y Ζ, qui marque la hauteur verticale du point y pris dans μ
+l'ellipse‚ par dessus 16 point z pris dans 16 cercle.
+
+SOLUTION.
+
+Qu’on tire par le point Ζ la droite C α perpendiculaire ἐι l'axe: on voit
+qu'en consequence de nos hypotheses, l'angle C y‘z doit &tre pris pour un
+droit, et 16 petit triangle C y Ζ oense semblable au triangle C α Ζ, (Γοὰ
+
+l’on tire
+
+yz=3-Z.><ez.
+Cz
+
+Soitelpresent Ca = s; z α = xl bb-—s ες on auraparla nature
+de l'ellipse
+
+ 
+
+ 
+
+ 
+
+αωεὲξχ«ᾱῇῑῖῇεξζξξχνῇῆῑῐῆῑῇῃῇῐῆ
+3
+
+Si on change cette quantite en suiteS, et qu'on rejette toujours les in-
+finiment petits du second ordre, on trouvera enfin
+ae=vfffftff÷3ss-bb
+3 b xl b b — s s
+3 ss -— b b
+3 b xl b b — s s
+
+γΖε-Ξὶἷ-δὶ) >< C. C.q.f.t.-
+
+XC.
+
+ 
+
+De lai on tire α C - α Ζ = C Ζ = Χ C, et par consequent
+
+ 
+
+ 
+
+COROLLAIRE L
+
+IV.--Pour trouver les points M, οὐ l'ellipse coupe le cerole, 011 n'a
+qu’fi faire y z = ο, ce qui donne s = b xl g. = ο, 5773 1), et l'arc b M de
+54⁰. 44'.
+

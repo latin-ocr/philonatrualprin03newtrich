@@ -1,0 +1,84 @@
+LIBER Tmarus] PRINCIPIA MATHEMATICA. 91
+
+antecedentia. Motus medii nodorum satellitum interiorum sunt ad mo-
+tum hujus, ut illorum tempora periodica ad tempus periodicum hujus
+(per idem corollarium) et inde dantur. Motus autem augis satellitis
+cujusque in consequentia est ad motum nodorum ipsius in antecedentia,
+ut motus apogaei Lunae nostrae ad hujus motum nodorum, (per idem
+Corol.) et inde datur.. Diminui tamen debet motus augis sic inventus in
+ratione 5 ad 9 vel l ad 2 circiter, (⁰) ob causam quam hic exponere non
+vacat. (d) AEquationes maximae nodorum et augis satellitis cujusque fere
+sunt ad aequationes maximas nodorum et augis Lunae respective, ut
+motus nodorum et augis satellitum tempore unius revolutionis aequationum
+
+priorum, ad motus nodorum et apogaei Lunae tempore unius revolutionis
+
+aequationum posteriorum. (e) Variatio satellitis e Jove spectati, est ad
+
+variationem Lunae, ut sunt ad invicem toti motus nodorum temporibus
+quibus satelles et Luna ad Solem revolvuntur, per idem Corollarium3
+ideoque in satellite extimo non superat 5⁰. 12'f'.
+
+prodibit motus nodorum satellitis intervallo an-
+
+nodorum satellitis extimi Jovis esse partem cir-
+norum centum 80. 24‘. Ab hujus saeculi initio
+
+citer 230. motus nodorum Lunae, sed est mo-
+tus annuus nodorum Lunae 190. 21’. 21”., ut di-
+cetur postea. Hisce si multiplicetur motus ille
+annuus per 100 factumque dividatur per 250,
+
+nullum in nodis satellitum jovialium sensibilem
+motum fuisse observatum testatur clariss. Cassi-
+nus in Elem. Astr.
+
+ 
+
+(⁸) 105. ob causam quom hic exponere non
+vacat. Referat S Solem, sitque P satelles, puta
+Luna revolvens circa planetam primarium Τ
+scilicet Terram, in ellipseos umbilico positum;
+erit B apsis summa, A apsis ima, eritque T B,
+distantia maxima et A T distantia minima.
+J am vero qud minor est distantia A T, respectu
+distantiae T B, ed celerius apsides progrediuntur,
+(per not. in Cor. 8. Prop. LXVI. Lib. L).
+Ea est correctionis causa quam autor noster non
+eJtpomt. Csim enim satellites Jovis et Saturni
+circa suos planetas primarios describant circulos
+fere concentricos (Pbaen. I. et 11.) Luna vero
+circa Terram in orbita elliptica revolvatur, et
+major sit motus nodorum in orbita elliptica quam
+m circulari, caeteris omnibus manentibus, hinc
+motus augis cujuscumque satellitis per analogiam
+ex motu augis lunaris inventus, diminui debet iu
+ratione paulo minore quam 1 ad 2, calculo non
+absimili illi qui XXXI. Prop. instituetur.
+
+(ά) * AEquationes marimce. Nam errores an·
+
+gulares in singulis revolutionibus geniti, ideoque
+eorumdem errorem correctiones seu aequationes
+maximae sunt ut satellitum tempora periodica re-
+spective (per Cor. 16. Prop. LXVI. Lib. L).
+Sed tempora periodica sunt ut motus ipsi angu-
+lares respective (Lib. L). Quare in eadem quo-
+que ratione sunt aequationes maximae.
+
+(²) ³* Variatio satellitis e Jove spectati, hoc
+est, motus angularis satellitis est ad motum an-
+gularem Lunae ut sunt ad invicem toti motus
+nodorum temporibus quibus satelles-et Luna ad
+Solem revolvuntur, sive clarius in ratione nodo.
+rum Lunae ad motum nodorum annuum et tem-
+poris periodIci Lunae ad tempus periodicum sa-
+tellitis (per Cor. 16. Prop. LXVI. Lib. Ι. et
+not. in idem Corol.). Jam vero motus nodo-
+rum Lunae annuus est 6968ι”. ut postea statui-
+tur a Newtono, nodus autem satellitis extimi
+jovialis annis centum conficit 80. 24'. ideoque
+
+motus ejusdem annuus est 302523 tempus perio-
+dicum Lunae est dierum 2752} et satellitis
+

@@ -1,0 +1,57 @@
+274 INQUISITIO PHYSICA IN CAUSAM
+
+simul ea, quae jam sunt eruta atque a Newtonianis diversa deprehensa,
+maxime confirmabit. Petita vero est haec altera methodus ex ea aequi-
+librii proprietate, qua -requiritur, ut
+omnes columnae aqueae a superficie
+Terrae ad* centrum pertingentes sint
+inter se aequiponderantes. Existen-
+te igitur vel 'Sole vel Luna in S, ⁸
+cujus vis absoluta ponatur = S, et
+distantia S C = a, sit A C columna
+aquea a superficie T errae A ad cen-
+trum C usque pertingens, quae altitudo
+A C sit = h. Ponatur anguli A C S cosinus = U, qui simul erit sinus
+altitudinis sub qua punctum S a spectatore in A constituto super hori-
+zonte elevatum conspicitur3 sumaturque intervallum quodcunque C M = Ζ,
+et consideretur totius columnae elementum M m = d Ζ. Hoc igitur ele- ’
+mentum primo a gravitate deorsum versus C urgebitur, cujus effectus,
+cum intra Terram pro variis distantiis non satis constet, ponatur dignitati
+cuicunque distantiarum a centro, puta ipsi Ζ ¹¹ proportionalis: mox enim
+planum fiet exponentem n nil omnino determinationes esse turbaturum.
+Urgebitur ergo elementum M m versus centrum C vi ε·- Ζ ¹¹ d z3 ex quo
+h n 4 1
+n ÷ 1 ‘
+ᾗ. 43. Praeterea autem elementum M m = d Ζ a vi S sollicitabitur
+duplici modo, altero deorsum in directione M C, altero in directione
+ad illam M C normali, quae posterior vis, clim pondus columnae nequa-
+quam afficiat, tuto negligetur, solaque prior considerabitur. Demisso
+autem ex M in C S perpendiculo M P, positisque C P Ξ Χ et P M = y,
+eritxs (x2-l··y2 = z, et x = uz atque y = Ζ V(l —uu). At ex
+
+ 
+
+totius columnae A C nisus deorsum a gravitate oriundus, erit =
+
+ 
+
+ᾗ. 27. vis, qua particula M m deorsum sollicitatur, est = ἔξω)
+a v(xx÷yy)
+ἦ· 3 Sx(3yy—2xx) Ξ Sz(l —-n3uu) -Ι- 38u22(3--5uu) Quae
+
+W‘H-y‘y‘) -α-ο* 2 a ⁴
+
+expressio per d z multiplicata, tumque integrata facto Ζ = h, praebebit
+
+totius columnae A C nisum a vi S oriundum = Ἥ -Ι-
+
+S h 3 u (3 -- 5 u u)
+2 a ‘²
+
+h ¹¹ ψ ¹4- Sh2(1-,-3uu) ÷ Sh1’1u(3---5uu)3 qui cfim in
+n÷1 221³ 22²⁴
+
+. Quocirca totus columnae A C nisus deor-sum tendens
+
+ 
+

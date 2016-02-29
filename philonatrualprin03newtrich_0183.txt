@@ -1,0 +1,49 @@
+ET REFLUX DE LA MER. 135-
+
+XIX.—Voici donc les cas et les hypotheses, par lesquelles nous com-
+mencerons. Nous supposerons d’abord‚ que la Lune fait des cercles
+parfaits autour de la Terre, et pareillement la Terre autour du Soleil:
+que ces orbites sont dans le plan de. l’equateur de 13 Terre: que toute la
+Terre est inondee: que la surface de 13 mer prend dans un instant sa
+juste figure, tout comme si l’eau n'avoit point d'inertie, ni resistanees; et
+enfin qu'il ne faille determiner les loix des marees, que sous l'equateur.
+Mais avant de faire les calculs‚ il sera bon d’exposer preliminairement
+quelques Lemmes geometriques.
+
+ἱὶΜἊἋἊ
+
+CHAPITRE V.
+
+Contemni quelques Proposilions de geometrie preliminaires pour*
+Z’Eoeplication el le Calcul des Mare'eS.
+
+PROBLEME.
+
+Ξ ’μ I.—-S01'r‚ comme ci-devant‚ le cerole b g d h et l’ellipse presque circulaire
+
+B G D H, et supposons 13 sphere et le sphero'l‘de‚ decrits par 13 rotation
+du cercle et de l'ellipse autour de l'axe B Ι),
+egaux 3 trouver le rapport entre les petites
+
+lignes Β b et G g.
+
+SOLUTION.
+
+Nous supposerons pour nous servir des 3
+memes expressions, que nous avons employees
+jusqu'ici‚ Bb -ξ- Gg ὲ ξς Gg = x, et Bb
+
+= C —x3 Cb ou C g = b3 n 13 circonference
+
+ 
+
+du cercle, dont le rayon est egal 3 1ἰΠιίῐὲ.
+Ceci pose, on scs-ait que 13 sphere sera =
+ξ, n b 5: on sqait aussi, qu’un ellipso'ide (dont le grand axe est = 2 A,
+et le plus petit diametre τι· 2 Β) est = ξ n B B A3 cela donne notre
+sphero'l‘de = 3n(b -Χ)2 >< (b -1- C—x) = {n (b3—-3bbx ÷ hbe>
+si l'on neglige les infiniment petits du second ordre. Faisant 3 present
+
+par la condition du Probleme la sphere egale au sphero‘l‘de‚, on , 3 ἓν n b ³
+= {n (b5—‘3bbx -ξ- bbe)c’est-2*1-dire‚ x = {GU C. q. f. t. , e
+

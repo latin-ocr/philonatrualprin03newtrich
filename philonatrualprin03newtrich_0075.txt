@@ -1,0 +1,130 @@
+ 
+
+ 
+
+LissERTEn'r1us.] PRINCIPIA MATHEMATICA. 27
+
+fingatur in icorpus centrale Jovi simile, circa
+quod, semota Solis actione, satelles gravior L
+describere poterit orbitam P Q R T priori
+A C B D aequalem ; restituatur Solis actio, actio e-
+jus in utrumque satellitem erit aequalis in similibus
+orbitarum punctis 3 nam propter ingentem *puncti
+
+’ S distantiam erit S A ad S P, et S B ad SR
+
+1 1
+udfflve
+
+tates in eis punctis forent ut d ad e, ide6que si
+
+ 
+
+ 
+
+ut S 1 ad 'S i, idedque ut gravi-
+
+ 
+
+satellites forent aeque graves, paribus in distantiis
+gravitates in eis punctis forent ut d ad e, sed quia
+gravitas satellitis l est ad gravitatem satellitis L ut e
+ad d, compensatur discrimen gravitatis ex distan-
+tia ortum per discrimen gravitatis ex hypothesi
+constitutum: mutatio autem quae ex actione Solis
+oritur in orbitam satellitis relate ad ejus prima-
+rium pendet ex discrimine actionis Solis in sa-
+tellitem et in primarium, hoc est in oppositione
+pendet ex residuo actionis Solis in primarium
+dempta actione Solis in satellitem3 et in con-
+junctione ea mutatio pendet ex residuo actionis
+Solis in satellitem dempta Solis actione in pri-
+marium: cum ergo actio Solis in satellites L et
+l, sit eadem3 sed actio Solis in primarium i fit
+minor quam in primarium Ι, in oppositione
+minus est residuum quod mutationem pariet in
+orbita satellitis L, quam residuum quod mu-
+tationem satellitis 1 parit in orbita, et ma-
+jus e contra est residuum in conjunctione re-
+spectu orbitae satellitis L quam respectu orbi-
+tae satellitis l; sed'illa residua tam in oppo-
+sitione quam in conjunctione vim centripetam
+minuunt3 ergo vis centripeta major manet in R
+quam in B, et minor e contra in P quam in A,
+
+⁴ unde patet quod ut restituatur similitudo inter
+. orbitam satellitis L, et orbitam satellitis 1 corpus
+
+centrale debeat removeri a puncto R et acce-
+dere versus P, hoc est transferri ex i versus 13
+ita ut centrum orbitae satellitis L 'remotius esse
+debeat a Sole quam ipsius corpus centrale.
+
+Jam ver& dico illud corpus centrale ad 1
+
+,transferri debere, nam sit corpus centrale in Ι,
+
+semota Solis actione, satelles L eodem tempore
+periodico ac prius describet ellipsim cujus cen-
+trum i, focus ver& I et axis major R P, (per
+Cor. Prop. XV. Lib. Ι.) et in mediocri sua
+distantia I Q (Cor. 4. Prop. XVI. Lib. 1.)
+velocitatem eamdem habebit quam habet satelles
+l in suo circulo, qualem v. gr. habet in C ubi
+velocitatum illarum directiones sunt parallelae
+tam inter se quam diametro R P, et ob distan-
+tiarum I Q et Ι C aequalitatem vires centrales
+sunt aequales directionis obliquitate paulum dif-
+ferentes: addatur jam actio Solis, et cuin sit
+S Q ad S C ut Si ad S I actiones illae Solis
+·(ex Hyp. et demonstratis) in satellites diversae
+gravitatis, sed positos in Q et C erunt etiam
+aequales3 movebitur ergo satelles L in mediocri-
+bus distantiis Q et T ut satelles l movetur in C
+et D quam proxime, tam ratione corporis cen-
+tralis 1 quam etiam ex adjuncta actione Solis,
+mutationes ver& ex Sole pendentes in A et P, et
+‘in R et B aequales sunt, quia sunt differentia
+ejusdem vis Solis in Ι et virium Solis in A et P,
+ut et virium Solis in R et P, vires autem in A
+et P suntaequales ex Hyp. et dem. ut et-in R et
+B. Unde esim vis primarii magna censenda sit
+respectu vis S; rationes virium centripetarum
+residuarum in P et A, B et R manent inter se
+in eadem ratione ac si nulla foret actio Solis, et
+ut semota actione Solis curvas suas iisdem tem-
+poribus describere faciebant, celeritate quidem
+majori in P, minori in R, media ver& in A et B,
+itaque eadem proxime iis in punctis manebit ratio
+descriptionis curvarum3 cum ergo demonstratum
+sit quod in punctis P Q R T, A C B D actio Solis
+non turbet relationem quae intercedit inter mo-
+dum quo curvae illae P Q R T, A C B D descri-
+buntur, cum virium rationes eaedem maneant ac
+prius quamproxime, idem etiam de punctis inter-
+mediis erit intelligendum. Unde sequitur quod
+satelles L in orbita P Q R T revolvi poterit eo·
+dem tempore iisdemque proxime legibus ac sa-
+telles L in orbita sua A C B D, si gravior sit
+Jove paribus in distantiis in ratione duplicata dis-
+tantiae Solis a centro suae orbitae ad distantiam
+
+Solis ab ipso Jove. Q. e. d.
+
+Eamdem demonstrationem applicari posse ad ,
+
+casum ubi satelles supponeretur levior Jove
+paribus in distantiis, illumque tunc descripturum
+ellipsim cujus centrum Sole vicinius erit quam
+Jupiter, ita ut sit gravitas satellitis ad gravita-
+tem Jovis in duplicata ratione distantioe Solis a
+centro orbitae ad distantiam Solis a Jove. Q.
+alterum e. d.
+
+Hac ratione satis constare assertum Newtoni
+credimus, idem tamen aliter inito calculo ma-
+gis ad mentem Newtoni demonstrari posse non
+negamus; sed ratio eum calculum ineundi, ex
+iis quae postea de motibus lunaribus dicentur,
+erit deducenda.
+

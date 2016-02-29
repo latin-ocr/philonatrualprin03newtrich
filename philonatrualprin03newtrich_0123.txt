@@ -1,0 +1,99 @@
+ann TERT1us.] PRINCIPIA MATHEMATICA. 75
+
+swe -l— :33750 Unde summa terminorum ejus columnae est — .09952 -ῗ proxime
+
+ῗῑῑὲἓῗὲἓ -
+4 ,00053
+-ι- ,00026
+-l- .00014
+— .20531
+
+sum reliq. 16
+
+sum. (Effer. ÷ .10613
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— 09952-ἰὶ
+
+Termini tertiae columnae summati evadunt -{- o.137 9 g — 0.0621 ΪΙ-ῖὲ -Ι- 0.0057 igr—Z·
+Termini quartae sunt -Ι- 0.07265 Ξ - 0.07119 f 1²3g - 0.0082 flg32 -Ι- 0.05555 ξ-Ξζ
+
+. f4 f 3 g f² g 2 fg 3 g*
+Term. qmntae sunt -Ι- 0.o4965 l—4 - 0.00444 -Ῑ-ῑ- —o.o5586 Η ..Ι- 0. 06380 Π 4-00151-4
+Τ ‚ f5 f4g f3g² f2g³ „- fg4
+
+. sextae sunt 4001 469 -1--5- - o.14589 -1—5— -- 0.11563 l 5 -— 0.06938 1⁵ -— 0.01076 1⁵
+-— 0.00885 g.
+
+In hoc casu ubi 1 est major quam g aut f, ex istis terminis sufficiens convergentia obtinetur, ut
+pro vero valore curvae, hi termini, im& et pauciores assumi possint reliquis omissis ; quoniam ergo
+invenimus attractionem puncti P a circulo M D N E esse ut P C ductum in numerum linearum
+P Z in circumferentia M D N E terminatarum, sive ut P C ductum in curvam quae in superficie
+sphaerae intercipitur inter lineas P Z, si in singulo puncto C, axeos A B erigatur ordinata quae
+
+sit ut
+P C
+
+{sn-x
+
+f3
+
+M N ><(1.57079 ÷o.59125{- -ι- 01379 if} -1- o.o726 53
+
+v - 0.09952 L} — o.0621 fs} — 0.o722 2²33, διο.
+
+ 
+
+ 
+
+-ι- 005555 {A}
+et per vertices earum ordinatarum curva ducta intelligatur, exprimet ejus area attractionem puncti
+
+P, si modo in hoc valore inserantur quantitates ad curvam revolventem pertinentes ; abscissa con-
+
+stans A Q dicatur a, ejus ordinata P Q: {- sit c, abscissa A C sit x, ordinata C M sit y, erit
+
+ 
+
+ 
+
+ 
+
+PN2=x-a1²÷y÷c12,ide6que1=³²-‘÷5l-²{-c⁸y-[⁰¹², ειΡο--μξῖῆῖ-Ῑῖῖ.
+
+Ex his et aequatione curvae, determinari potent punctum axeos in quo transibit circulus talis
+ut attractio cis eum circulum aequalis sit attractioni ultra eum circulum, sive punctum axeos
+ad quod tendit media directio gravitatis; hinc ejus obliquitas ad perpendiculum in curvam
+
+obtinebitur.
+
+Sed cum haec duntaxat valeant cum g sive P Q q nunquam major est quam P N, generalior alia
+est solutio, sed cujus calculus paulo prolixior videbitur.
+
+2. Casus, si talis sit curva ut incertum sit utrum
+P N nunquam sit minor quam P Q q sive g.
+
+Ducatur per punctum P linea quae angulum N P M
+in duos angulos aequales dividat, et occurrat lineae
+
+M N in puncto X, erit (per 3. VI. Elem.) P N -1-
+ΡὲνΙΝζὲἰΐΝΜ ut P N ad N X quod erit ergo
+
+πῖθι-πῄ scribatur is valor loco x in serie quae
+exprimit longitudinem curvae propositae, ea evadet
+
+ 
+

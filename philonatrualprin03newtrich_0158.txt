@@ -1,0 +1,42 @@
+110 TRAITE' SUR LE FLUX
+
+dit du cas que nous venons de resoudre, comme pareillement resolu par
+M. Newton, si je n'avois pas crfi, qu'il etoit convenable de suivre toutes
+les traces qui nous menent 6 l'intelligence de notre question principale:
+aussi ces precautions sont-elles necessaires‚ nour pouvoir toujours exprimer
+d'une 11161116 166011 les quantites constantes3 et ainsi nous nous souvien-
+drons tofijours dans la suite d'exprimer la force acceleratrice d'un corps
+infiniment petit, par la masse divisee par 16 quatre de la distance, et de
+denotet 16 masse par le produit de son etendu'e‚ et de sa densite.
+
+PROBLEME.
+
+V.-T1·ouver l'attraetion pour un corps place en B, causee par une
+sphere solide, composee de couches homogenes3 mais (16 differentes (1611-
+sites entr'elles.
+
+SOLUTION.
+
+Il paroit par 16 troisieme article, qu’on n'a qu'fi. concevoir la masse de
+toute 16 sphere ramassee au centre C, et qu’elle causera 16 meme attraction‚
+tant que 16 point B est hors de 16 sphere: nom-
+mant donc M la masse du globe‚ ou la somme B
+
+des masses- de toutes les coucheS, l'attraction L
+6116161166 sera = ἕ. C. q. f. t. ³
+(ς,- ‚ni-1
+· PROBLEME. “
+VL-Soit B G D H une ellipse presque 611·-
+
+61116116, c'est-ai-dire‚ dont la difference des axes ’ D
+
+B D et G H soit regardee comme infiniment petite 3 et qu’on coneoive
+cette ellipse former par sa rotation autour de l'axe B D, un sphero'ide
+homogene. On demande 16 force acceleratrice, ou l'attraction que ce
+sphero'l‘de produira sur un corps place a'u pole B.
+
+SOLUTION.
+
+Soit la densite de la matiere exprimee par μ; 16 petit demi—axe G C
+= b31egranddemi-axeBC=b -Ι- 63 BJ = x3 Ji=dx3 on aura
+

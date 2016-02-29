@@ -1,0 +1,191 @@
+LIBER TERT1US.] PRINCIPIA MATHEMATICA.
+
+65
+
+que, in partes 505 divise, partes quatuor detraheret3 manerent pondera
+
+in utroque crure aequalia, et propterea fluidum consisteret in aequilibrio.
+Verum vis centrifuga partis cujusque est ad p'ondus ejusdem ut 1 ad 289,
+hoc est, vis centrifuga, quae deberet esse ponderis pars 3:³53, est tantum pars
+
+23¹3&-
+
+fuga in singulis punctis cruris A C est in ratione
+distantiae eorum punctorum a centro C E (per
+Cor. 8. Prop. IV. Lib. Ι.) sed est etiam gravi-
+tas acceieratrix in ratione distantiae a centro (per
+Cor. 3. Prop. XCI. Lib. l.) ergo si alicubi
+data sit ratio vis gravitatis ad vim centrifugam,
+eadem erit in omnibus punctis: sit ergo alicubi
+ut 505 ad 4 gravitas acceleratrix tota singula-
+rum et omnium partium cruris A C erit ad gra·
+vitatem residuam in singulis et omnibus partibus
+ejusdem cruris ut 505 ad 501, sed in eadem ra-
+tione erat tota gravitas cruris A C (absque de-
+tractione vis centrifugae ad gravitatem cruris
+C Q, quod cum sit axis, vim centrifugam nul-
+lam habet) ergo re81duum vis gravitatis in crure
+A C sublata vi centris uga in aequilibrio est cum
+gravitate cruris C Q.
+
+(Ζ) * Et propterea dico secundam regulam
+auream. ¹⁵ Vix crediderim Newtonum ad ap-
+plicandam regulam auream hic loci, alio nixum
+non fuisse fundamento quam ista confusa no-
+tione, quod cum excessus ponderum in longiori-
+bus cruribus sphaeroideon pendeant ex inaequali-
+tate crurum, sive ab excessu unius cruriS supra
+alterum, ideo rationes excessuum crurum majo-
+rum ad minora crura eaedem esse debeant ac ra-
+tiones excessuum ponderum ad pondera mino-
+rum crurum; quae quidem ultimae rationes (sive
+ipsis proximae rationes excessuum ponderum ad
+pondera majorum crurum) aequantur rationibus
+virium centrifugarum ad gravitatem totam, quia
+illae vires centrifugae ex gravitate detractae eos
+excessus ponderum accurate compensant. Sed
+mihi videtur ipsum deduxisse hanc proportionem
+ex ipsa serie ab ipso adhibita, et quam assequi
+sumus conati in nota (¹) proximiu quod u‘t con-
+cipiatur, resumantur quae in ea nota dicta sunt,
+et ad ratiocinium Newtonianum applicentur,
+supponendo quaestionem esse de duobus sphaero-
+idibus, quorum unus sit assumptitius ille cujus
+axes sunt ut 101 ad loo alterum vero ipsa
+Terra, ita ut semi-diameter aequatoris quae in
+sphaeroide fictitio in nota praedicta per r designa-
+batur, Terrae respectu designetur per ρ, semi-
+axis vero P Q qui in serie assumpta dictus fue»-
+rat b et applicatus fictitio sphaeroidi, ubi verd
+ipsum semi-axem Terrae designat dicatur B.
+Assumptis ergo duobus primis terminis serie-
+rum, sed mutatis r in ρ et b in B, ubi agetur de
+Terra, 10. Gravitas in loco Q in sphaeroidem
+ent ad gravitatem in eodem loco in sphaeram
+
+6br—4b2ad?—b
+
+radio b descriptam erit ut 8 r 3
+
+ 
+
+= .- et si agatur de Terra, gravitas in loco Q in Ter.-
+
+(2) Et propterea dico, secundum regulam auream, quod si vis
+
+ram erit ad gravitatem in eodem loco in sphae-
+ram quae radio B describetur ut Q
+
+5 e
+ad 2313 ; ideoque rationes gravitatis in loco Q in
+
+sphaeroidem vel Terram ad gravitatem in sphae-
+5 r — 2 b
+
+ras radiis b et B descriptas erunt ut r
+
+53—213
+
+ 
+
+ad
+
+rum sunt radii b et B est ad gravitatem in sphae-
+ras radiis A C descriptas ut radius b ad r, et B
+ad g, ideoque rationes gravitatis in sphaeras radiis
+P Q descriptas ad gravitates in sphaeras radiis
+
+b B
+
+A C descriptas erunt ut Τ ad -.
+
+30. Gravitas in sphaeras radiis A C descriptas
+
+est ad gravitatem in ellipsoides convolutione el-
+2 r
+
+lipsium A Ρ Β Q circa A C descriptas ut ἶ-
+
+ 
+
+. 20. Gravitas in sphaeras qua-
+
+6 r b - 4 r r . . . .
+‚ Sl agatur de fictitio sphaermde,
+
+ad
+
+ 
+
+5 b
+aut ι t 2-3? ad ἒ-ρ-Ῑ-ζό-Ξ--Λιρέ ubi agitur de Terra:
+
+et quoniam attractio sphaeroidis fictitii aut Terrae
+est media proportionalis inter has attractiones,
+erit gravitas in sphaeram ad gravitatem in A in
+
+. ‘2 r ’ἐ-τῡ--ιῐῖῗ
+§pheax-uidem, ut M}- ad μ 5'b et gm-
+vitas in sphaeram ad gravitatem quae est in A
+
+Terram ipsam ut 4! ἒξ ad «Ι 6 ⁰ B ’ἐξ 4¹,
+
+ 
+
+b
+*⁴.-3*,B„
+ideoque rationes gravitatum in sphaeras ad gra-
+vitates in sphaeroidem et in Terram erunt ut
+
+ 
+
+ 
+
+b B
+Vah—aradffsss—‘zg
+
+tionibus ad minimos terminos.
+Hinc tandem compositis omnibus rationibus,
+
+rationes gravitatum, in punctis Q tam sphaeroi-
+
+deos fictitii quam Terrae, ad gravitates in punc-
+
+-2b b
+δῖε χῖχ
+
+b 3 ρ - 2 Β Β Β
+sb—erad ς χῖνειΒ-κς
+Rursus in fictitio sphaeroide ratio magnitudi-
+
+b
+
+nis crurum exprimitur per ἶ et in Terra per
+-1—3; per quas quantitates ducantur rationes grac
+
+ 
+
+reductis frac-
+
+ 
+
+ 
+
+tis A eorum erunt ut
+
+ 
+
+ 
+
+ 
+
+ 
+
+4!
+
+ 
+
+vitatis, ct habebuntur rationes ponderum quae
+
+G5
+

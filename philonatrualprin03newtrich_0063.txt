@@ -1,0 +1,93 @@
+mez TERTIUS] PRINCIPIA MATHEMATICA. 15
+
+satellitum Jovis. (θ’) Etenim per eclipses illas determinatur positio um-
+brae quam Jupiter projicit, et eo nomine habetur Jovis longitudo helio-
+centrica. Ex longitudinibus autem heliocentrica et geocentrica inter se
+
+collatis determinatur distantia J ovis,
+
+PHAENOMENON V.
+
+Planetas primarios, radiis ad Terram ductis, areas describere temporibus
+minime proportionales ,· at radiis ad Solem duetiS, areas temporibus pro· .
+portionales percurrere.
+
+Nam respectu Terrae nunc progrediuntur, nunc stationarii sunt, nunc
+etiam regrediuntur: At Solis respectu semper progrediuntur, idque pro-
+.
+
+latitudo Veneris ex Tellure observata P T E, e ad orbitam satellitis, et 1 E quae erit in E T
+
+Sole visa P S E, E punctum in ecliptica, erit perpendicularis, quia cognoscitur ratio maximae
+ut P S ad P T, ita tangens latitudinis P T E,
+
+ad tangentem latitudinis P S E. Nam ob an-
+gulosE PTetE P Srectos, estP Tad PE
+ut sinus totus ad tangentem anguli P T E3 et
+similiter P S ad P E ut sinus totus ad tangen-
+tem anguli P S E, ideoque ut P S ad P T, ita
+tangens anguli P T E ad tangentem anguli
+P S E, quare dabitur angulus iste cum recto
+E P S, et ideo erit S P ad S E ut sinus anguli
+S E 1‘, complementi P S E ad rectum ad
+sinum anguli P S E, dabitur ergo S E, seu
+ratio ejus ad S T, sicque observatis variis dis-
+tantiis S P, dabitur mediocris3 quia vero datur
+ratio S T ad mediocrem distantiam Solis a T erra
+ternpore observationis, dabitur ratio distantiae
+mediocris Veneris ad distantiam mediocrem
+Solis a Terra. Mercurii distantiae a Terra deter-
+minantur etiam per elongationes ejus maximas a
+Sole, sed quia orbita Mercurii est admodum
+excentrica, si Mercurius fit in P, in maxima
+digressione, per observationem notus sit oportet
+angulus S T P et per theoriam motuum Mer-
+curii angulus P S T unde deducetur angulus
+T P S, quia angulus ille rectus non est, unde
+tandem caetera determinentur ut in Venere, ne-
+glectis minutiis.
+
+(y) 62. ’¹‘ Etenim per eclipses J ovis determina-
+
+, tur positio umbrae quam Jupiter projicit, et eo no·
+
+mine liabetur Jovis longitudo lzeliocentrica.
+
+³* Sit S 8013 T 'l‘erra3 Ι Jupiter3 L Satelles
+ejus per medium umbrae Ι L transiens: ex
+Terra T observetur in partibus semi-diametri
+Jovis‚ distantia centri Jovis a satellite in urn-
+bram sese immergente et ex eit emergente, me-
+dium inter eas distantias erit distantia a centro
+Jovis ad satellitem in medio umbrae immersum
+in partibus semi-diametri J ovis, ,eadem distantia
+iu minutis et secundis observari poterit, eritque
+mensura anguli Ι T L·; ducatur T Ε tangens
+
+elongationis hujus satellitis ad semi-diametrum
+J ovis, et hic habetur in secundis semi-diameter
+
+ 
+
+v«2
+“J-‘ts‘ S
+
+Jovis habebitur in secundis angulus I T E
+sub quo apparere deberet linea 1 E, si satelles
+foret in maxima sua elongatione eo temporis
+moment03 sed ex trigonometricis, est sinus
+anguli Ι T E, ad sinum totum sive sinum an-
+guli E, ut est I E ad T 1, rursus in triangulo
+T Ι L est Ι L (sive I E ipsx aequalis) ad T Ι
+ut sinus anguli observati Ι Τ L ad sinum an-
+guli T L 1 ; itaque ut sinus anguli 1 T E ad
+sinum totum, ita sinus anguli 1 T L ad sinum
+anguli T L Ι sive T L S; unde in triangulo
+T L S, cognito per observationem angulo S T L
+et invento ut indicatum est, angulo T L S,
+habetur angulus T S L, qui additus vel detrac-
+tus e longitudine heliocentrica Terrae dat Jovis
+heliocentricam longitudinem. Q. e. i.
+
+D2
+

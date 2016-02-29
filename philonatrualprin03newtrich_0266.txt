@@ -1,0 +1,57 @@
+218 DE CAUSA PHYSICA FLUXUS
+
+et V N = e r, P M parallela rectae D N ³
+
+1
+et P m rectae D 21³ae Ἴ
+Cor. 4. Hinc sequitur converse 'quod si
+N n sit ordinata ab interiori ellipsi ad axem l »
+D d et D P perpendicularis axi D d occur- Δ
+
+:m
+
+rat ellipsi exteriori in P; jungantur D N Ξ.1Δ“Α““
+
+et D n, hisque parallelae P Μ, Ρ m occur- Α . a
+rant ellipsi exteriori in M et m3 ducatur
+P H parallela axi D d, in quam sint per-
+pendiculares M Q et m q, tum P Q -ἥ- ‚P q
+(vel 2 Ρ e) erit aequalis 2 D V punctis Q
+et q cadentibus ad easdem partes puncti P,
+et PQ--Pq = 2Dchertqsunt
+ad contrarias partes puncti P. ’
+
+LEMMA 11.
+Recta P L perpendicularis el-
+
+lipsi A B a b in P, occurrat axi
+B b in L, et ex puncto L sit L Z
+perpendicularis in semi-diametrum
+C P, eritque rectangulum C P Z
+contentum sub semi-diametro C P
+et intercepta P Z aequale quadrato
+ex semi-axi C A. ι
+Sit C p semi-diameter conju-
+gata ipsi C P, ducatur P D per-
+pendicularis in axem B b et pro-
+ducatur donec occurrat semi-dia-
+
+ 
+
+ 
+
+metro C p in K, jungatur K Z,
+sitque P T tangens ellipseos in
+puncto P. Ob angulos rectos
+L D P, L Z P, L P T circulus transibit per quatuor puncta L, D,
+P, et Z, et continget rectam P T in P, ade6que angulus P D Z
+aequalis erit angulo C P T vel P C K. Proindecirculus transi-
+bit per quatuor puncta C, K, D et Z3 angulus C Z K aequalis
+
+erit recto C D K, K Z transibit per punctum L et ex natur& circuli ’
+
+CP><PZ=DP><PK=CA2. Q.e.d.(³).
+
+(³) proprietates bis in hoc et praecedenti Lemmate demonstratae analogice facile ad hyperbola'm
+transferuntur,
+

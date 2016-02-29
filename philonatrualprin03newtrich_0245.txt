@@ -1,0 +1,72 @@
+ET R-EFLUX DE LA MER. 197
+
+comme dans l'ocean9 ni 6 heures lunaires apreS, mais au mihera, si la mer
+a peu d’etendue en longitude. 2⁰. Que les marees sont les plus grandes
+aux extremites orientales et occidentales z et X, et qu’elles sont incom-
+parablement plus petites au milieu t. 3⁰. Que la haute mer dans l'une
+des extre‘mites se fait au meme moment que 13 basse mer dans l'autre ex-
+tremite. Voila en gros les proprietes des marees dans ces mers: le cal-
+cul en fera connoitre le detail.
+
+Pour ne point ennuyer le lecteur par une trop longue suite de raisonne-
+mens purement geometriqueS‚ et dans plusieurs circonstances assez com-
+pliquees et chargees de calcul, je ne mettrai ici que le plus precis..
+
+. Soit B b 4- G g = C, qui marque la variation pour 13 mer libre de
+
+tous cotes: foit l'arc z Χ, qui marque l'etendue de 13 mer en longitude
+
+= A. Le rayon de la Terre que nous prenons pour le sinus total ε.- l 3
+
+qu'on tire Χ n perpendiculaire a C B, et soit l’espace za n Χ Ζ = S.
+
+Cela pose, on trouvera d'abord y z Χ s = -2 A C. Cet espace devant &tre
+
+egal 3 l'espace y o r s, qui est egal 3 13 petite s r multiplie par A, on en
+S
+
+tiresr=}C-—KC.
+
+Sion suppose apres cela C n = n et C α = ε, on en aura s Χ = n nC
+
+— ἐν C, et par consequent r Χ = n n C —- C -ί- -Ξ C, et ce sont les diffe-
+r‘entes valeurs de r Χ, en considerant ns et S comme variables‚ qui
+marquen't les differentes hauteurs de 13 mer au point Χ, qui est 31ἐΧ-
+tremite occidentale de 13 mer.
+
+De cette valeur r x on peut tirer geometriquement toutes les propriete's
+des marees, quelque etendue qu'on suppose a la mer, et tout ce que nous
+avons trouve pour le point Χ, peut &tre determine de 13 meme facon pour
+tel autre point dans l'arc z Χ qu'on voudra3 mais on remarquera sur-tout
+- une propriete generale, qui est que l’arc horaire compris entre la haute et
+
+² 13 basse mer, c'est-a—dire l’arc compris entre 13 plus grande et 13 plus
+
+· ¹ 13 differentielle r Χ .-- ο, et faire — d S -ε
+
+petite r Χ, est tofijours de 90 degreS. Pour le demontrer, il faut supposer
+n n - s s
+M 1 — n n
+
+valeur constante de A, d'ou l’on tirera cette equation 2 A n V l ——n 11
+-1- s s = 0, qui marque deja 13 propriete generale que nous venons d’in-
+diquer. Cette propriete donne ensuite la hauteur de 13 maree, exprimee
+par la difference de la plus grande et de la plus petite valeur de r x =
+
+d n, 3 cause de 13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(211n--1 ÷nxll÷nn--sxsl—ss
+A
+
+) C, et on remarquera que dans
+
